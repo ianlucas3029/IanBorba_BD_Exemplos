@@ -1,0 +1,2 @@
+alter table Pessoa ADD CONSTRAINT PK_PESSOA PRIMARY KEY
+(PessoaID);
